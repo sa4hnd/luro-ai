@@ -10,8 +10,7 @@
 ## 🌟 Introduction
 Luro is an innovative social media marketing platform designed to help you streamline your social media management effortlessly. Built with Next.js, Tailwind CSS, Shadcn UI, Magic UI, Aceternity UI, Prisma, MongoDB, Clerk, React Hook Form, and TypeScript, Luro provides powerful analytics and user-friendly features to enhance your social media marketing experience.
 
-## 🚀 Features
-
+## 🚀 Featur
 - Real-time performance tracking across platforms
 - Engagement rate calculations and trends
 - Audience growth and demographic insights
